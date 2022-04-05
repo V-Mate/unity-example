@@ -1,4 +1,4 @@
-[<p align="center"><img src="https://vmate.net/img/logo.png" data-canonical-src="https://cdn.aihelp.net/logo/logo.png" width="200" height="70" align="center"/></p>](https://aihelp.net)
+[<p align="center"><img src="https://vmate.net/img/logo.png" data-canonical-src="https://cdn.aihelp.net/logo/logo.png" width="200" height="70" align="center"/></p>](https://vmate.net)
 
 
 
